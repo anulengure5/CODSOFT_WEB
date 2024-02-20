@@ -15,6 +15,8 @@ CSS: Styles the website for a visually appealing design.
 
 
 ====================================================================================
+
+
 2.Zomato Landing Page
 
 Features
@@ -30,7 +32,12 @@ CSS: Styles the landing page to resemble Zomato's design.
 
 ![screencapture-file-C-Users-anule-OneDrive-Desktop-CODSOFTWEB-Landing-Page-main-html-2024-02-18-20_33_34](https://github.com/anulengure5/CODSOFT_WEB/assets/114414659/ac6892f2-63f8-4b0e-b9ba-0c47ea1db918)
 
+
+
 =====================================================================
+
+
+
 3.Calculator Project
 
 ![Screenshot (76)](https://github.com/anulengure5/CODSOFT_WEB/assets/114414659/8d9f9689-d4ff-4d99-b8a2-13f92e80f672)
